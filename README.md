@@ -1,4 +1,1 @@
-Master original
-
-
-Adicionando linha no master.
+Master original (alterado e atualizado)
